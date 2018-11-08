@@ -1,0 +1,11 @@
+#!/bin/bash
+# My first script
+
+
+COUNTER=0
+         while [  $COUNTER -lt 50 ]; do
+           mpirun -n 4 ./heapsort 
+						
+             let COUNTER=COUNTER+1 
+         done
+

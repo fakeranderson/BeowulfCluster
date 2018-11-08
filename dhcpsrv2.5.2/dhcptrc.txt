@@ -1,0 +1,549 @@
+[04/26/2018 22:46:40] DHCP Server terminated
+[04/26/2018 22:46:40] DHCP Server V2.5.2.3 started as Service
+[04/26/2018 22:46:40] NetworkAdapter Initialization returns 0
+[04/26/2018 22:46:40] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/26/2018 22:46:40] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/26/2018 22:46:40] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/26/2018 22:46:40] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 00:49:48] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 00:49:48] DHCP Server terminated
+[04/27/2018 00:49:48] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 00:49:48] NetworkAdapter Initialization returns 0
+[04/27/2018 00:49:48] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 00:49:48] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 00:49:48] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:36:46] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:36:46] NetworkAdapter Initialization returns 0
+[04/27/2018 12:36:46] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:36:46] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:36:46] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:36:47] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:36:47] DHCP Server terminated
+[04/27/2018 12:36:47] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:36:47] NetworkAdapter Initialization returns 0
+[04/27/2018 12:36:47] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:36:47] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:36:47] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:36:51] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:36:51] DHCP Server terminated
+[04/27/2018 12:36:51] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:36:51] NetworkAdapter Initialization returns 0
+[04/27/2018 12:36:51] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:36:51] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:36:51] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:36:58] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:36:58] DHCP Server terminated
+[04/27/2018 12:36:58] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:36:58] NetworkAdapter Initialization returns 0
+[04/27/2018 12:36:58] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:36:58] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:36:58] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:36:58] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:36:59] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:36:59] DHCP Server terminated
+[04/27/2018 12:36:59] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:36:59] NetworkAdapter Initialization returns 0
+[04/27/2018 12:36:59] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:36:59] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:36:59] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:36:59] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:37:01] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:37:01] DHCP Server terminated
+[04/27/2018 12:37:01] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:37:01] NetworkAdapter Initialization returns 0
+[04/27/2018 12:37:01] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:37:01] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:37:01] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:37:01] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:37:15] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:37:15] DHCP Server terminated
+[04/27/2018 12:37:15] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:37:15] NetworkAdapter Initialization returns 0
+[04/27/2018 12:37:15] Adapter 0 with IP address 192.168.87.65 found but not used
+[04/27/2018 12:37:15] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:37:15] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:37:15] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:37:15] Adapter 4 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:37:18] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:37:18] DHCP Server terminated
+[04/27/2018 12:37:18] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:37:18] NetworkAdapter Initialization returns 0
+[04/27/2018 12:37:18] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:37:18] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:37:18] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:37:18] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:58:22] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:58:22] DHCP Server terminated
+[04/27/2018 12:58:22] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:22] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:22] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:22] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:22] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:24] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:58:24] DHCP Server terminated
+[04/27/2018 12:58:24] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:24] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:24] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:24] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:24] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:49] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:50] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:50] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:50] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:50] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:51] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:58:51] DHCP Server terminated
+[04/27/2018 12:58:51] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:51] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:51] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:51] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:51] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:53] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:58:53] DHCP Server terminated
+[04/27/2018 12:58:53] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:53] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:53] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:53] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:53] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:56] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:58:56] DHCP Server terminated
+[04/27/2018 12:58:56] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:56] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:56] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:56] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:56] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:58] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:58:58] DHCP Server terminated
+[04/27/2018 12:58:58] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:58:59] NetworkAdapter Initialization returns 0
+[04/27/2018 12:58:59] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:58:59] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:58:59] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:58:59] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:59:01] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:59:01] DHCP Server terminated
+[04/27/2018 12:59:01] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:59:01] NetworkAdapter Initialization returns 0
+[04/27/2018 12:59:01] Adapter 0 with IP address 172.27.183.17 found but not used
+[04/27/2018 12:59:01] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:59:01] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:59:01] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:59:01] Adapter 4 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:59:05] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:59:05] DHCP Server terminated
+[04/27/2018 12:59:05] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:59:05] NetworkAdapter Initialization returns 0
+[04/27/2018 12:59:05] Adapter 0 with IP address 172.27.183.17 found but not used
+[04/27/2018 12:59:05] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:59:05] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:59:05] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:59:05] Adapter 4 with IP address 10.60.2.224 found but not used
+[04/27/2018 12:59:07] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 12:59:07] DHCP Server terminated
+[04/27/2018 12:59:07] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 12:59:07] NetworkAdapter Initialization returns 0
+[04/27/2018 12:59:07] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 12:59:07] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 12:59:07] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 12:59:07] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 14:29:12] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 14:29:12] DHCP Server terminated
+[04/27/2018 14:29:12] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 14:29:12] NetworkAdapter Initialization returns 0
+[04/27/2018 14:29:12] Adapter 0 with IP address 10.60.2.224 found but not used
+[04/27/2018 14:34:58] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 14:34:58] DHCP Server terminated
+[04/27/2018 14:34:58] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 14:34:58] NetworkAdapter Initialization returns 0
+[04/27/2018 14:34:58] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 14:34:58] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 14:34:58] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 14:35:01] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 14:35:01] DHCP Server terminated
+[04/27/2018 14:35:01] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 14:35:02] NetworkAdapter Initialization returns 0
+[04/27/2018 14:35:02] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 14:35:02] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 14:35:02] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 14:35:02] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 14:35:04] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 14:35:04] DHCP Server terminated
+[04/27/2018 14:35:04] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 14:35:05] NetworkAdapter Initialization returns 0
+[04/27/2018 14:35:05] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 14:35:05] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 14:35:05] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 14:35:05] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 15:04:10] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 15:04:10] DHCP Server terminated
+[04/27/2018 15:04:10] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 15:04:10] NetworkAdapter Initialization returns 0
+[04/27/2018 15:04:10] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 15:04:10] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 15:04:10] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 15:04:10] Adapter 3 with IP address 10.60.2.224 found but not used
+[04/27/2018 16:21:21] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 16:21:21] DHCP Server terminated
+[04/27/2018 16:21:21] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 16:21:22] NetworkAdapter Initialization returns 0
+[04/27/2018 16:21:22] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 16:21:22] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 16:21:22] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 16:21:23] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 16:21:23] DHCP Server terminated
+[04/27/2018 16:21:23] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 16:21:23] NetworkAdapter Initialization returns 0
+[04/27/2018 16:21:23] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 16:21:23] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 16:21:23] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 16:21:25] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 16:21:25] DHCP Server terminated
+[04/27/2018 16:21:25] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 16:21:25] NetworkAdapter Initialization returns 0
+[04/27/2018 16:21:26] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 16:21:26] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 16:21:26] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 16:21:28] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 16:21:28] DHCP Server terminated
+[04/27/2018 16:21:28] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 16:21:29] NetworkAdapter Initialization returns 0
+[04/27/2018 16:21:29] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 16:21:29] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 16:21:29] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 16:21:29] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 16:21:31] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 16:21:32] DHCP Server terminated
+[04/27/2018 16:21:32] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 16:21:32] NetworkAdapter Initialization returns 0
+[04/27/2018 16:21:32] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 16:21:32] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 16:21:32] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 16:21:32] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 16:21:35] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 16:21:35] DHCP Server terminated
+[04/27/2018 16:21:35] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 16:21:35] NetworkAdapter Initialization returns 0
+[04/27/2018 16:21:35] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 16:21:35] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 16:21:35] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 16:21:35] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 18:46:40] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 18:46:40] DHCP Server terminated
+[04/27/2018 18:46:40] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 18:46:40] NetworkAdapter Initialization returns 0
+[04/27/2018 18:46:40] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 18:46:40] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 18:46:40] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:33] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:34] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:34] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:34] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:34] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:37] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:16:37] DHCP Server terminated
+[04/27/2018 19:16:37] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:37] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:37] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:37] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:37] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:40] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:16:40] DHCP Server terminated
+[04/27/2018 19:16:40] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:40] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:40] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:40] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:40] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:41] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:16:41] DHCP Server terminated
+[04/27/2018 19:16:42] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:42] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:42] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:42] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:42] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:42] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 19:16:43] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:16:43] DHCP Server terminated
+[04/27/2018 19:16:43] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:43] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:44] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:44] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:44] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:44] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 19:16:45] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:16:45] DHCP Server terminated
+[04/27/2018 19:16:45] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:45] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:45] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:45] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:45] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:45] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/27/2018 19:16:49] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:16:49] DHCP Server terminated
+[04/27/2018 19:16:49] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:16:49] NetworkAdapter Initialization returns 0
+[04/27/2018 19:16:49] Adapter 0 with IP address 192.168.52.97 found but not used
+[04/27/2018 19:16:49] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:16:49] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:16:49] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:16:49] Adapter 4 with IP address 192.168.0.4 found but not used
+[04/27/2018 19:17:01] DHCP Server is terminating (ignore error messages that follow)
+[04/27/2018 19:17:01] DHCP Server terminated
+[04/27/2018 19:17:01] DHCP Server V2.5.2.3 started as Service
+[04/27/2018 19:17:01] NetworkAdapter Initialization returns 0
+[04/27/2018 19:17:01] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/27/2018 19:17:01] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/27/2018 19:17:01] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/27/2018 19:17:01] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/28/2018 02:32:58] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 02:32:58] DHCP Server terminated
+[04/28/2018 02:32:58] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 02:32:58] NetworkAdapter Initialization returns 0
+[04/28/2018 02:32:58] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 02:32:58] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 02:32:58] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:01] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:02] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:02] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:02] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:02] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:05] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:05] DHCP Server terminated
+[04/28/2018 12:44:05] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:05] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:05] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:05] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:05] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:08] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:08] DHCP Server terminated
+[04/28/2018 12:44:08] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:08] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:08] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:08] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:08] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:10] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:10] DHCP Server terminated
+[04/28/2018 12:44:10] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:10] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:10] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:10] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:10] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:10] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/28/2018 12:44:13] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:13] DHCP Server terminated
+[04/28/2018 12:44:13] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:13] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:13] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:13] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:13] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:13] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/28/2018 12:44:17] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:17] DHCP Server terminated
+[04/28/2018 12:44:17] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:17] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:17] Adapter 0 with IP address 172.17.5.209 found but not used
+[04/28/2018 12:44:17] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:17] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:17] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:17] Adapter 4 with IP address 192.168.0.4 found but not used
+[04/28/2018 12:44:18] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:18] DHCP Server terminated
+[04/28/2018 12:44:18] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:19] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:19] Adapter 0 with IP address 172.17.5.209 found but not used
+[04/28/2018 12:44:19] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:19] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:19] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:19] Adapter 4 with IP address 192.168.0.4 found but not used
+[04/28/2018 12:44:35] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 12:44:35] DHCP Server terminated
+[04/28/2018 12:44:35] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 12:44:35] NetworkAdapter Initialization returns 0
+[04/28/2018 12:44:35] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 12:44:35] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 12:44:35] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 12:44:35] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/28/2018 18:36:55] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 18:36:55] DHCP Server terminated
+[04/28/2018 18:36:55] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 18:36:55] NetworkAdapter Initialization returns 0
+[04/28/2018 18:36:55] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 18:36:55] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 18:36:55] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 18:36:58] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 18:36:58] DHCP Server terminated
+[04/28/2018 18:36:58] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 18:36:58] NetworkAdapter Initialization returns 0
+[04/28/2018 18:36:58] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 18:36:58] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 18:36:58] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 18:37:01] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 18:37:01] DHCP Server terminated
+[04/28/2018 18:37:01] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 18:37:01] NetworkAdapter Initialization returns 0
+[04/28/2018 18:37:01] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 18:37:01] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 18:37:01] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 18:37:05] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 18:37:05] DHCP Server terminated
+[04/28/2018 18:37:05] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 18:37:05] NetworkAdapter Initialization returns 0
+[04/28/2018 18:37:05] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 18:37:05] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 18:37:05] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 18:37:05] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/28/2018 18:37:11] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 18:37:11] DHCP Server terminated
+[04/28/2018 18:37:11] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 18:37:11] NetworkAdapter Initialization returns 0
+[04/28/2018 18:37:11] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 18:37:11] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 18:37:11] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/28/2018 18:37:11] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/28/2018 21:51:46] DHCP Server is terminating (ignore error messages that follow)
+[04/28/2018 21:51:46] DHCP Server terminated
+[04/28/2018 21:51:46] DHCP Server V2.5.2.3 started as Service
+[04/28/2018 21:51:46] NetworkAdapter Initialization returns 0
+[04/28/2018 21:51:46] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/28/2018 21:51:46] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/28/2018 21:51:46] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:29] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:29] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:29] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:29] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:29] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:32] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:32] DHCP Server terminated
+[04/30/2018 12:16:32] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:32] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:32] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:32] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:32] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:35] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:35] DHCP Server terminated
+[04/30/2018 12:16:35] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:35] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:35] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:35] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:35] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:38] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:38] DHCP Server terminated
+[04/30/2018 12:16:38] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:38] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:38] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:38] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:38] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:42] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:42] DHCP Server terminated
+[04/30/2018 12:16:42] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:42] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:42] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:42] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:42] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:44] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:44] DHCP Server terminated
+[04/30/2018 12:16:44] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:44] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:44] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:44] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:44] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:47] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:47] DHCP Server terminated
+[04/30/2018 12:16:47] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:47] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:47] Adapter 0 with IP address 192.168.29.193 found but not used
+[04/30/2018 12:16:47] Adapter 1 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:47] Adapter 2 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:47] Adapter 3 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:47] Adapter 4 with IP address 10.60.4.199 found but not used
+[04/30/2018 12:16:50] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 12:16:50] DHCP Server terminated
+[04/30/2018 12:16:50] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 12:16:50] NetworkAdapter Initialization returns 0
+[04/30/2018 12:16:50] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 12:16:50] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 12:16:50] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 12:16:50] Adapter 3 with IP address 10.60.4.199 found but not used
+[04/30/2018 16:57:21] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 16:57:22] DHCP Server terminated
+[04/30/2018 16:57:22] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 16:57:22] NetworkAdapter Initialization returns 0
+[04/30/2018 16:57:22] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 16:57:22] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 16:57:22] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 16:57:23] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 16:57:23] DHCP Server terminated
+[04/30/2018 16:57:24] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 16:57:24] NetworkAdapter Initialization returns 0
+[04/30/2018 16:57:24] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 16:57:24] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 16:57:24] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 16:57:24] Adapter 3 with IP address 10.60.4.199 found but not used
+[04/30/2018 16:57:26] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 16:57:26] DHCP Server terminated
+[04/30/2018 16:57:26] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 16:57:26] NetworkAdapter Initialization returns 0
+[04/30/2018 16:57:26] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 16:57:26] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 16:57:26] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 16:57:26] Adapter 3 with IP address 10.60.4.199 found but not used
+[04/30/2018 16:57:29] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 16:57:29] DHCP Server terminated
+[04/30/2018 16:57:29] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 16:57:29] NetworkAdapter Initialization returns 0
+[04/30/2018 16:57:29] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 16:57:29] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 16:57:29] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 16:57:29] Adapter 3 with IP address 10.60.4.199 found but not used
+[04/30/2018 16:57:32] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 16:57:32] DHCP Server terminated
+[04/30/2018 16:57:32] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 16:57:32] NetworkAdapter Initialization returns 0
+[04/30/2018 16:57:32] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 16:57:32] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 16:57:32] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 16:57:32] Adapter 3 with IP address 10.60.4.199 found but not used
+[04/30/2018 19:30:09] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 19:30:09] DHCP Server terminated
+[04/30/2018 19:30:09] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 19:30:09] NetworkAdapter Initialization returns 0
+[04/30/2018 19:30:09] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 19:30:09] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 19:30:09] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 19:30:09] Adapter 3 with IP address 10.60.4.199 found but not used
+[04/30/2018 21:06:09] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 21:41:20] DHCP Server terminated
+[04/30/2018 21:41:20] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 21:41:21] NetworkAdapter Initialization returns 0
+[04/30/2018 21:41:21] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 21:41:21] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 21:41:21] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 21:41:22] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 21:41:22] DHCP Server terminated
+[04/30/2018 21:41:22] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 21:41:22] NetworkAdapter Initialization returns 0
+[04/30/2018 21:41:22] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 21:41:23] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 21:41:23] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 21:41:25] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 21:41:25] DHCP Server terminated
+[04/30/2018 21:41:25] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 21:41:25] NetworkAdapter Initialization returns 0
+[04/30/2018 21:41:25] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 21:41:25] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 21:41:25] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 21:41:25] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/30/2018 21:41:28] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 21:41:28] DHCP Server terminated
+[04/30/2018 21:41:28] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 21:41:28] NetworkAdapter Initialization returns 0
+[04/30/2018 21:41:28] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 21:41:28] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 21:41:28] Adapter 2 with IP address 169.254.80.80 found but not used
+[04/30/2018 21:41:28] Adapter 3 with IP address 192.168.0.4 found but not used
+[04/30/2018 21:44:56] DHCP Server is terminating (ignore error messages that follow)
+[04/30/2018 21:44:56] DHCP Server terminated
+[04/30/2018 21:44:56] DHCP Server V2.5.2.3 started as Service
+[04/30/2018 21:44:56] NetworkAdapter Initialization returns 0
+[04/30/2018 21:44:56] Adapter 0 with IP address 172.16.80.1 found but not used
+[04/30/2018 21:44:56] Adapter 1 with IP address 10.0.75.1 found but not used
+[04/30/2018 21:44:56] Adapter 2 with IP address 169.254.80.80 found but not used
