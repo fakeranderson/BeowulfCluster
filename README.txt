@@ -1,7 +1,7 @@
 This is an IMPERFECT log of the commands that I entered on each Pi (unless specified otherwise) within the Beowulf cluster. 
 Additional software is needed, such as Windows Image Writer to flash Raspbian to each Pi after the master has been created,
 and DHCP for Windows.  I found it necessary to use my Windows machine as a DHCP server, and hardline the cluster to it, because 
-if the IP addresses change than MPI won't work.. and it's a nightmare to change all the IP addresses in the cluster once you set them. 
+if the IP addresses change then MPI won't work.. and it's a nightmare to change all the IP addresses in the cluster once you set them. 
 
 
 ssh pi@IP_ADDRESS
